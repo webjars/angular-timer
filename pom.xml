@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-timer</artifactId>
-    <version>1.0.12-1</version>
+    <version>1.0.12-2-SNAPSHOT</version>
     <name>angular-timer</name>
     <description>WebJar for angular-timer</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/angular-timer</url>
         <connection>scm:git:https://github.com/webjars/angular-timer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-timer.git</developerConnection>
-        <tag>angular-timer-1.0.12-1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
